@@ -125,8 +125,8 @@
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YoussefMostafaMohammed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMostafaMohammed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YoussefMostafaMohammed&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMostafaMohammed&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8" />
 
 </div>
 
