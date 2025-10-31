@@ -147,47 +147,6 @@
        style="border-radius:35px; border:3px solid #00D9FF; padding:10px; box-shadow:0 6px 15px rgba(0,0,0,0.35);" />
 </div>
 
----
-
-## 🎓 Education
-
-### 🏆 Information Technology Institute (ITI)
-**9-Month Professional Diploma (PTP Intake 45)**  
-*Embedded Systems & Android Automotive Track*  
-📅 October 2024 – August 2025
-
-### 🎓 Fayoum University
-**Bachelor's Degree in Communications and Electronics Engineering**  
-*Faculty of Engineering, Electrical Engineering Department*  
-📅 November 2018 – November 2023
-
----
-
-## 📜 Certifications
-
-🏅 **Certified Tester Foundation Level (CTFL) v4.0** - ISTQB (March 27, 2025)
-
----
-
-## 🏆 Competitive Programming
-
-### 🥇 Coach Academy - Level 3 (July 2023 – February 2024)
-**Advanced Topics:**
-- Graph Theory (DFS, BFS, DSU, Bellman, Floyd, Dijkstra, Euler's Graph)
-- Dynamic Programming
-- String Algorithms (String Hashing, Rabin Karp, KMP)
-- Advanced Data Structures (Trie, Sparse Table, LCA, Segment Tree)
-
-### 🥈 Coach Academy - Level 2 (August 2022 – October 2022)
-**Intermediate Topics:**
-- STLs & Data Structures
-- Number Theory & Sorting Algorithms
-- Binary Search, Two Pointers, Backtracking
-- Complete Search (Iterative/Recursive)
-- Bitmasks
-
----
-
 <div align="center">
 
 ### 💡 *"Building the bridge between silicon and software, one line of code at a time"*
