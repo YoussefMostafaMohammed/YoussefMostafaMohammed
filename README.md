@@ -125,8 +125,14 @@
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YoussefMostafaMohammed&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMostafaMohammed&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YoussefMostafaMohammed&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMostafaMohammed&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&langs_count=8" />
+
+</div>
+
+<div align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefMostafaMohammed&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" />
 
 </div>
 
