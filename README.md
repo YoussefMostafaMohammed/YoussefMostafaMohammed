@@ -19,35 +19,22 @@
 
 ## 🚀 About Me
 
-```cpp
-class EmbeddedEngineer {
-public:
-    string name = "Youssef Mostafa Mohamed";
-    string role = "Embedded Systems & Android Automotive Developer";
-    string education = "ITI - Professional Diploma (PTP Intake 45)";
-    string location = "Giza, Egypt 🇪🇬";
-    
-    vector<string> passions = {
-        "Building cutting-edge automotive systems",
-        "AOSP & Android Automotive development",
-        "Embedded Linux & real-time systems",
-        "Clean architecture & design patterns"
-    };
-    
-    string getCurrentFocus() {
-        return "Developing next-gen IVI systems with AAOS & embedded Linux";
-    }
-};
-```
+<div align="center">
 
-> 🎓 **Communications & Electronics Engineering** graduate from Fayoum University  
-> 💼 Currently pursuing **9-month Professional Diploma** at ITI (Embedded Systems & Android Automotive)  
-> 🔧 Passionate about building intelligent, connected automotive solutions  
-> 🌟 Always exploring new technologies and pushing boundaries
+**Passionate Embedded Software Engineer** bridging the gap between hardware and software to build the future of automotive technology. With a solid foundation in **Electronics and Communication Engineering** and hands-on expertise in **Android Automotive (AOSP)** and **Embedded Linux**, I specialize in crafting intelligent, connected vehicle systems that redefine the driving experience.
 
 ---
 
-## 🏆 Featured Projects
+🎓 **Electronics & Communications Engineering Graduate** | Fayoum University  
+💼 **Professional Diploma in Embedded Systems & Android Automotive** | ITI (PTP Intake 45)  
+🚗 **Focused on:** Next-gen IVI Systems • AAOS Development • Real-Time Embedded Solutions  
+⚡ **Driven by:** Innovation, Clean Architecture & Cutting-Edge Automotive Tech
+
+</div>
+
+---
+
+## 🏆 Graduation Project
 
 ### 🌟 [Orion: Integrated Vehicle Control with AI Monitoring](https://github.com/Orion-ITI)
 > **ITI Graduation Project** | Multi-node automotive system with unified cabin control
@@ -68,69 +55,6 @@ public:
 - **AAOS IVI Node:** Raspberry Pi 5 running AAOS with custom vendor package
 - **Embedded Linux Node:** Raspberry Pi 5 running custom Yocto distro
 - **FreeRTOS Nodes:** STM32 Blue Pill running FreeRTOS
-
----
-
-### 🚗 [NAVYA: Next-gen Automotive Voice and Vision Assistant IVI System](https://github.com/Musa-Mahmoud/NAVYA)
-> AOSP 15-based IVI with Kotlin app for camera object detection & voice control
-
-**Tech Stack:** Android Automotive OS 15 • Kotlin • Computer Vision • Voice Recognition
-
----
-
-### 🌦️ [Weather Forecast App](https://github.com/YoussefMostafaMohammed/WeatherForecast-Kotlin.git)
-> Real-time weather forecasts with responsive XML UI
-
-**Tech Stack:** Kotlin • MVVM • XML • REST APIs
-
----
-
-### 🍽️ [Food Planning Android Application (Farakhni)](https://github.com/YoussefMostafaMohammed/Farakhni.git)
-> Meal planning app with recipe filtering and offline support
-
-**Tech Stack:** Java • MVP • Room Database • Retrofit
-
----
-
-### 🚧 [Entry Exit Barrier Gate](https://github.com/Yara-Abdelrahem/Entry-Exit-barrier-gate.git)
-> Automated parking barrier with sensor-based vehicle access control
-
-**Tech Stack:** Java • C • STM32F401CC • Embedded Systems
-
----
-
-### 🔌 [Qt Application Controlling RPi Running Buildroot](https://github.com/YoussefMostafaMohammed/QT_PWM_RPI3B-)
-> Qt-based GUI to control PWM signals on Raspberry Pi 3B+
-
-**Tech Stack:** Qt6 • C++ • QML • Buildroot • Raspberry Pi
-
----
-
-### 🤖 [Robotic Car](https://github.com/YoussefMostafaMohammed/Robotic-Car)
-> ATmega32-based robotic car with obstacle avoidance, Bluetooth control, and line follower modes
-
-**Tech Stack:** AVR • ATmega32 • C • Embedded Systems
-
----
-
-### 💾 [STM32F401CC Firmware](https://github.com/YoussefMostafaMohammed/STM32F401CC_Drivers)
-> Complete firmware with MCAL and HAL drivers
-
-**Drivers:** GPIO, RCC, NVIC (MCAL) • LED, SWITCH, LCD (HAL)
-
----
-
-### 💾 [ATMEGA32 Firmware](https://github.com/AhmedAlyElGhannam/ITI_Embedded_AVR_Playground)
-> Complete firmware with MCAL and HAL drivers
-
-**Drivers:** DIO, PORT, UART (MCAL) • LED, SWITCH, LCD, KPAD, SEVSEG (HAL)
-
----
-
-### 🚗 [Smart Parking System](https://github.com/YoussefMostafaMohammed/Smart-Parking-System)
-> **Bachelor's Graduation Project** | Grade: A+
-
-**Tech Stack:** Embedded Systems • Sensor Integration • Real-time Control
 
 ---
 
@@ -211,95 +135,6 @@ public:
 
 ---
 
-## 🎯 Areas of Expertise
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚗 Automotive Systems
-- Android Automotive OS (AAOS)
-- AUTOSAR Classic Architecture
-  - RTE (Runtime Environment)
-  - BSW (Basic Software)
-  - Application SWCs
-  - Communication Stack
-- Vehicle Communication (CAN/CAN-FD, LIN/LIN-Diag, TP, UDS)
-- IVI System Development
-- VHAL & Framework Configuration
-- Runtime Resource Overlays (RROs)
-
-</td>
-<td width="50%">
-
-### 💻 Software Development
-- Design Patterns (MVVM, MVP)
-- Android Native Development
-  - Jetpack Components (Room, LiveData)
-  - Android Coroutines
-  - View Binding, Data Binding
-  - Unit Testing (Dependency Injection, MockK)
-- Embedded C/C++ Programming
-- Real-Time Operating Systems
-- Linux Kernel & Device Drivers
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔧 Embedded Systems
-- ARM Cortex-M4 & AVR Architectures
-- FreeRTOS Development
-- Custom Firmware Design
-- MCAL & HAL Layer Development
-- Protocol Implementation (UART, SPI, I2C)
-- STM32 & ATmega Development
-
-</td>
-<td width="50%">
-
-### 🐧 Embedded Linux
-- Yocto Project & Buildroot
-- Linux From Scratch
-- Custom Distribution Building
-- Init Systems (Systemd, SystemV, Busybox)
-- Device Tree Configuration
-- Device Drivers Development
-- Root Filesystem & Initrd
-- Cross-compilation & Toolchains
-- CommonAPI & vsomeip
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📱 Embedded Android (AOSP & AAOS)
-- Architecture & Filesystem
-- Booting Sequence
-- Build Systems (Soong, Kati)
-- Native Services
-- AIDL & VHAL
-- Framework & HAL Layer Configuration
-- Runtime Resource Overlays (RROs)
-
-</td>
-<td width="50%">
-
-### 🧪 Testing & Quality
-- **ISTQB Certified Tester Foundation Level (CTFL) v4.0**
-- Unit Testing Frameworks
-- Unity Test Framework
-- Android Testing (MockK, Dependency Injection)
-- Embedded System Testing
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🎓 Education
 
 ### 🏆 Information Technology Institute (ITI)
@@ -336,35 +171,6 @@ public:
 - Binary Search, Two Pointers, Backtracking
 - Complete Search (Iterative/Recursive)
 - Bitmasks
-
----
-
-## 🌱 Currently Learning
-
-```kotlin
-val currentLearning = listOf(
-    "Advanced AUTOSAR architecture patterns",
-    "Vehicle-to-Everything (V2X) communication",
-    "AI/ML integration in automotive systems",
-    "Safety-critical system design (ISO 26262)",
-    "Modern C++20/23 features for embedded systems"
-)
-```
-
----
-
-## 💡 Fun Facts
-
-```python
-fun_facts = {
-    "🎮": "Love solving algorithmic challenges on competitive programming platforms",
-    "🤖": "Built a robotic car with obstacle avoidance as my welcome project at ITI",
-    "🌍": "Fluent in Arabic (native) and English",
-    "📱": "Passionate about creating intuitive user experiences in automotive interfaces",
-    "⚡": "Always excited to learn new technologies and frameworks",
-    "🎂": "Born on November 22, 2000"
-}
-```
 
 ---
 
