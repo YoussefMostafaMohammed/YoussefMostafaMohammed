@@ -123,17 +123,28 @@
 
 ## 📊 GitHub Stats
 
+
+<table align="center" border="0" style="border-collapse: collapse;">
+  <tr>
+    <td style="padding: 0 15px;">
+      <img height="220em"
+           src="https://github-readme-stats.vercel.app/api?username=YoussefMostafaMohammed&show_icons=true&theme=radical&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&bg_color=050F2C"
+           style="border-radius:35px; border:3px solid #00D9FF; padding:8px; box-shadow:0 6px 15px rgba(0,0,0,0.35);" />
+    </td>
+    <td style="padding: 0 15px;">
+      <img height="220em"
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMostafaMohammed&layout=compact&theme=radical&hide_border=true&title_color=00D9FF&text_color=FFFFFF&bg_color=050F2C&langs_count=8"
+           style="border-radius:35px; border:3px solid #00D9FF; padding:8px; box-shadow:0 6px 15px rgba(0,0,0,0.35);" />
+    </td>
+  </tr>
+</table>
+
+<br style="line-height:10px;"/>
+
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YoussefMostafaMohammed&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMostafaMohammed&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&langs_count=8" />
-
-</div>
-
-<div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefMostafaMohammed&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefMostafaMohammed&theme=tokyonight&hide_border=true"
+       alt="GitHub Streak"
+       style="border-radius:35px; border:3px solid #00D9FF; padding:10px; box-shadow:0 6px 15px rgba(0,0,0,0.35);" />
 </div>
 
 ---
