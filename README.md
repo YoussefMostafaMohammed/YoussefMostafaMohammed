@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Youssef Mostafa Mohamed
+# Hey there! I'm Youssef Mostafa Mohamed
 
 <div align="center">
   
@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 <div align="center">
 
@@ -25,31 +25,30 @@
 
 ---
 
-🎓 **Electronics & Communications Engineering Graduate** | Fayoum University  
-💼 **Professional Diploma in Embedded Systems & Android Automotive** | ITI (PTP Intake 45)  
-🚗 **Focused on:** Next-gen IVI Systems • AAOS Development • Real-Time Embedded Solutions  
-⚡ **Driven by:** Innovation, Clean Architecture & Cutting-Edge Automotive Tech
+**Electronics & Communications Engineering Graduate** | Fayoum University  
+**Professional Diploma in Embedded Systems & Android Automotive** | ITI (PTP Intake 45)  
+Focused on: Next-gen IVI Systems • AAOS Development • Real-Time Embedded Solutions  
+Driven by: Innovation, Clean Architecture & Cutting-Edge Automotive Tech
 
 </div>
 
 ---
 
-## 🏆 Graduation Project
+## Graduation Project
 
-### 🌟 [Orion: Integrated Vehicle Control with AI Monitoring](https://github.com/Orion-ITI)
-> **ITI Graduation Project** | Multi-node automotive system with unified cabin control
+### [Orion: Integrated Vehicle Control with AI Monitoring](https://github.com/Orion-ITI)
+> ITI Graduation Project | Multi-node automotive system with unified cabin control
 
-```
-🎯 AAOS IVI on Raspberry Pi 5  |  🐧 Custom Yocto Linux  |  ⚡ FreeRTOS on STM32
-```
+AAOS IVI on Raspberry Pi 5 | Custom Yocto Linux | FreeRTOS on STM32
+
 
 **Features:**
-- 🌡️ Multi-zone AC control
-- 🪑 Seat adjustment automation
-- 💡 Ambient light control
-- 🗺️ Synchronized navigation
-- 🎤 Voice control integration
-- 🤖 AI-powered monitoring
+- Multi-zone AC control
+- Seat adjustment automation
+- Ambient light control
+- Synchronized navigation
+- Voice control integration
+- AI-powered monitoring
 
 **Node Architecture:**
 - **AAOS IVI Node:** Raspberry Pi 5 running AAOS with custom vendor package
@@ -58,11 +57,11 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 👨‍💻 Languages
+### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -74,7 +73,7 @@
 ![QML](https://img.shields.io/badge/QML-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![CAPL](https://img.shields.io/badge/CAPL-005073?style=for-the-badge)
 
-### 🤖 Android & Mobile
+### Android & Mobile
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![AOSP](https://img.shields.io/badge/AOSP-34A853?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack](https://img.shields.io/badge/Jetpack-4285F4?style=for-the-badge&logo=android&logoColor=white)
@@ -84,20 +83,20 @@
 ![Gson](https://img.shields.io/badge/Gson-0F9D58?style=for-the-badge)
 ![Glide](https://img.shields.io/badge/Glide-4285F4?style=for-the-badge)
 
-### 🔧 Embedded Systems
+### Embedded Systems
 ![ARM](https://img.shields.io/badge/ARM_Cortex--M4-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 ![AVR](https://img.shields.io/badge/AVR-E34F26?style=for-the-badge)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge)
 ![AUTOSAR](https://img.shields.io/badge/AUTOSAR-1C90C4?style=for-the-badge)
 
-### 🐧 Linux & Build Systems
+### Linux & Build Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Yocto](https://img.shields.io/badge/Yocto-0078D4?style=for-the-badge)
 ![Buildroot](https://img.shields.io/badge/Buildroot-DD6620?style=for-the-badge)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
-### 🛠️ Tools & Frameworks
+### Tools & Frameworks
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-427819?style=for-the-badge)
@@ -106,7 +105,7 @@
 ![GDB](https://img.shields.io/badge/GDB-00599C?style=for-the-badge)
 ![Enterprise Architect](https://img.shields.io/badge/Enterprise_Architect-0066CC?style=for-the-badge)
 
-### 📡 Protocols & Communication
+### Protocols & Communication
 ![CAN](https://img.shields.io/badge/CAN-005073?style=for-the-badge)
 ![LIN](https://img.shields.io/badge/LIN-00599C?style=for-the-badge)
 ![UART](https://img.shields.io/badge/UART-008080?style=for-the-badge)
@@ -121,8 +120,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
+## GitHub Stats
 
 <table align="center" border="0" style="border-collapse: collapse;">
   <tr>
@@ -145,12 +143,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefMostafaMohammed&theme=tokyonight&hide_border=true"
        alt="GitHub Streak"
        style="border-radius:35px; border:3px solid #00D9FF; padding:10px; box-shadow:0 6px 15px rgba(0,0,0,0.35);" />
-</div>
-
-<div align="center">
-
-### 💡 *"Building the bridge between silicon and software, one line of code at a time"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=YoussefMostafaMohammed&color=2E9EF7&style=for-the-badge)
-
 </div>
