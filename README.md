@@ -124,12 +124,27 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=YoussefMostafaMohammed&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)
+
+</div>
+
+<div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefMostafaMohammed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YoussefMostafaMohammed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefMostafaMohammed&theme=tokyonight&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMostafaMohammed&layout=compact&theme=tokyonight&hide_border=true)
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YoussefMostafaMohammed&theme=tokyonight&hide_border=true)
+<div align="center">
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefMostafaMohammed&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMostafaMohammed&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 
 </div>
 
@@ -171,3 +186,13 @@
 - Binary Search, Two Pointers, Backtracking
 - Complete Search (Iterative/Recursive)
 - Bitmasks
+
+---
+
+<div align="center">
+
+### 💡 *"Building the bridge between silicon and software, one line of code at a time"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=YoussefMostafaMohammed&color=2E9EF7&style=for-the-badge)
+
+</di
