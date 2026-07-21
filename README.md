@@ -21,7 +21,7 @@
 
 <div align="center">
 
-**Passionate Embedded Software Engineer** bridging the gap between hardware and software to build the future of automotive technology. With a solid foundation in **Electronics and Communication Engineering** and hands-on expertise in **Android Automotive (AOSP)** and **Embedded Linux**, I specialize in crafting intelligent, connected vehicle systems that redefine the driving experience.
+**Passionate Data Engineer** bridging the gap between hardware and software to build the future of automotive technology. With a solid foundation in **Electronics and Communication Engineering** and hands-on expertise in **Android Automotive (AOSP)** and **Embedded Linux**, I specialize in crafting intelligent, connected vehicle systems that redefine the driving experience.
 
 ---
 
